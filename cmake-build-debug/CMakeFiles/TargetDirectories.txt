@@ -1,0 +1,3 @@
+/home/c0sta/CLionProjects/2890_dlinked_list/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/c0sta/CLionProjects/2890_dlinked_list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/c0sta/CLionProjects/2890_dlinked_list/cmake-build-debug/CMakeFiles/2819_linked_list.dir
